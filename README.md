@@ -1,3 +1,6 @@
 <h3>Repository to keep challenges using JS</h3>
 
-[tri-du](impulsojs\tri-du.js)
+
+[tri-du.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/tri-du.js)
+
+[patinhos.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/patinhos.js)
