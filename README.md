@@ -8,3 +8,5 @@
 [pedra-papel-ataque.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/pedra-papel-ataque.js)
 
 [arrayspares.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/arrayspares.js)
+
+[reveillon-copacabana.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/reveillon-copacabana.js)
