@@ -1,14 +1,14 @@
 <h3>Repository to keep challenges using JS</h3>
 
 
-[tri-du.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/tri-du.js)
+[tri-du](https://github.com/alfeups/challengesjs/blob/main/impulsojs/tri-du.js)
 
-[patinhos.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/patinhos.js)
+[patinhos](https://github.com/alfeups/challengesjs/blob/main/impulsojs/patinhos.js)
 
-[pedra-papel-ataque.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/pedra-papel-ataque.js)
+[pedra-papel-ataque](https://github.com/alfeups/challengesjs/blob/main/impulsojs/pedra-papel-ataque.js)
 
-[arrayspares.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/arrayspares.js)
+[arrayspares](https://github.com/alfeups/challengesjs/blob/main/impulsojs/arrayspares.js)
 
-[reveillon-copacabana.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/reveillon-copacabana.js)
+[reveillon-copacabana](https://github.com/alfeups/challengesjs/blob/main/impulsojs/reveillon-copacabana.js)
 
-[dragão-berrador-world.js](https://github.com/alfeups/challengesjs/blob/main/impulsojs/dragão-berrador-world.js)
+[dragão-berrador-world](https://github.com/alfeups/challengesjs/blob/main/impulsojs/dragão-berrador-world.js)
