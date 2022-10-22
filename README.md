@@ -22,13 +22,30 @@
   <details>
   <summary>unimedBH</summary>
   
-[Time-travel](https://github.com/alfeups/challengesjs/blob/main/unimedbc/andandonotempo.js)
+[time-travel](https://github.com/alfeups/challengesjs/blob/main/unimedbc/andandonotempo.js)
   
-[Animal](https://github.com/alfeups/challengesjs/blob/5e6f52302dd6e62a67dd24f828ba88f65a54f7b1/unimedbc/animal.js)
+[animal](https://github.com/alfeups/challengesjs/blob/5e6f52302dd6e62a67dd24f828ba88f65a54f7b1/unimedbc/animal.js)
   
-[Salary raise](https://github.com/alfeups/challengesjs/blob/main/unimedbc/aumentosalario.js)
+[salary-raise](https://github.com/alfeups/challengesjs/blob/main/unimedbc/aumentosalario.js)
   
-[Dividores](https://github.com/alfeups/challengesjs/blob/main/unimedbc/dividores.js)
+[divisores](https://github.com/alfeups/challengesjs/blob/main/unimedbc/dividores.js)
   
-[Factorial](https://github.com/alfeups/challengesjs/blob/main/unimedbc/factorialsimples.js#L9)
-    </details>
+[factorial](https://github.com/alfeups/challengesjs/blob/main/unimedbc/factorialsimples.js#L9)
+ </details>
+
+
+<details>
+<summary>Orange Tech</summary>
+
+[somando-multiplos](https://github.com/alfeups/challengesjs/blob/3ea3b8c5c74b0a196b57be67787354ead3059f5b/orangetech/somandomultiplos.js)
+
+</details>
+
+<details>
+<summary>NTT DATA</summary>
+
+[somando-pares](https://github.com/alfeups/challengesjs/blob/3ea3b8c5c74b0a196b57be67787354ead3059f5b/nttdata/somadepares.js)
+
+[triangle-coins](https://github.com/alfeups/challengesjs/blob/3ea3b8c5c74b0a196b57be67787354ead3059f5b/nttdata/trianglecoins.js)
+
+</details>
