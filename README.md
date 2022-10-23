@@ -49,3 +49,11 @@
 [triangle-coins](https://github.com/alfeups/challengesjs/blob/3ea3b8c5c74b0a196b57be67787354ead3059f5b/nttdata/trianglecoins.js)
 
 </details>
+
+
+<details>
+<summary>Bee Crowd</summary>
+
+[dancing-sentences](https://github.com/alfeups/challengesjs/blob/7dd21bbf922c578ebc71187f178da2a859c48011/beecrowd/dancing-sentence.js)
+
+</details>
