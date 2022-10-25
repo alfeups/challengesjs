@@ -2,7 +2,7 @@ var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var temporaria = 'a';
 const array = [];
 
-input.split('').forEach(c => {
+input.trim().split('').forEach(c => {
     if (isLetraPassadaUpperCase(temporaria) && c !== " ") {
         array.push(c.toLowerCase());
         temporaria = c.toLowerCase()
