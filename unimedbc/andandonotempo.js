@@ -1,6 +1,6 @@
 const line = gets().split("")
 const a = line[0];
-const b = line[1];
+let b = line[1];
 const c = line[2];
 
 
